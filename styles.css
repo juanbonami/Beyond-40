@@ -16,8 +16,6 @@ body {
 .container {
   width: 70%;
   margin: 0 auto;
-  /* display: flex;
-  justify-content: center; */
 }
 
 .star-summary {
@@ -74,7 +72,6 @@ body {
 .bar-graphs {
   position: relative;
   margin-left: 15px;
-  /* border: 1px solid black; */
   width: 140px;
 }
 
@@ -120,22 +117,6 @@ body {
 .one {
     width: 0%;
 }
-
-/* .graphs {
-    display: flex;
-} */
-
-/* .star-graph:hover .star-list-gray , .star-graph:hover + .bar-graphs {
-    opacity: 0.5;
-} */
-
-/* .bar-graphs:hover .bar {
-  opacity: 0.5;
-}
-
-.bar-graphs .bar:hover {
-  opacity: 1;
-} */
 
 .gray-star:hover .star-list-gray {
     opacity: 0.5;
